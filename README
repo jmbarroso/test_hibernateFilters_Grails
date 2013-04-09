@@ -4,4 +4,4 @@ Project created to test , learn and teach how works the Hibernate Filters in a G
 
 The project test simple cases, and mix the hibernate filter with named queries.
 
-To understand and learn the diferents use cases please see "HibernateFilterTests.groovy" in integartion test folder.
+To understand and learn the different use cases see "HibernateFilterTests.groovy" in integration test folder.
