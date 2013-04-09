@@ -1,4 +1,7 @@
-This file was created by IntelliJ IDEA 12.0.4 for binding GitHub repository
-This file was modified by IntelliJ IDEA 12.0.4 for binding GitHub repository
-This file was modified by IntelliJ IDEA 12.0.4 for binding GitHub repository
-This file was modified by IntelliJ IDEA 12.0.4 for binding GitHub repository
+= Testing Hibernate Filters in Grails =
+
+Project created to test , learn and teach how works the Hibernate Filters in a Grails Project 
+
+The project test simple cases, and mix the hibernate filter with named queries.
+
+To understand and learn the diferents use cases please see "HibernateFilterTests.groovy" in integartion test folder.
