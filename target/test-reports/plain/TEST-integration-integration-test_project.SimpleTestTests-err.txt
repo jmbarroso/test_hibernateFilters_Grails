@@ -1,0 +1,1 @@
+--Output from Using a simple named query works--

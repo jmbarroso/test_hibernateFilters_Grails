@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="NickBland-PC" id="0" name="HibernateFilterTests" package="test_project" tests="5" time="0.812" timestamp="2013-04-09T11:17:04">
+      <properties />
+
+      <testcase classname="test_project.HibernateFilterTests" name="Using a parametrized filter that filter the publication by enable or disable" time="0.578" />
+
+      <testcase classname="test_project.HibernateFilterTests" name="Filtering the Publications using a parametrized filter by country object" time="0.031" />
+
+      <testcase classname="test_project.HibernateFilterTests" name="A filter could be defined in a father class and be used with inheritance" time="0.095" />
+
+      <testcase classname="test_project.HibernateFilterTests" name="Named queries and hibernate filter should work together" time="0.022" />
+
+      <testcase classname="test_project.HibernateFilterTests" name="Basic usage of hibernate filters with an example that filter publication using pages number" time="0.051" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[--Output from Using a parametrized filter that filter the publication by enable or disable--
+--Output from Filtering the Publications using a parametrized filter by country object--
+--Output from A filter could be defined in a father class and be used with inheritance--
+--Output from Named queries and hibernate filter should work together--
+--Output from Basic usage of hibernate filters with an example that filter publication using pages number--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="NickBland-PC" id="1" name="SimpleTestTests" package="test_project" tests="1" time="0.17" timestamp="2013-04-09T11:17:05">
+      <properties />
+
+      <testcase classname="test_project.SimpleTestTests" name="Using a simple named query works" time="0.167" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[--Output from Using a simple named query works--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

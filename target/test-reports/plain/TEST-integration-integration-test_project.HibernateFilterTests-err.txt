@@ -1,0 +1,5 @@
+--Output from Using a parametrized filter that filter the publication by enable or disable--
+--Output from Filtering the Publications using a parametrized filter by country object--
+--Output from A filter could be defined in a father class and be used with inheritance--
+--Output from Named queries and hibernate filter should work together--
+--Output from Basic usage of hibernate filters with an example that filter publication using pages number--

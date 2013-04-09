@@ -1,0 +1,7 @@
+Testsuite: test_project.SimpleTestTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.17 sec
+------------- Standard Error -----------------
+--Output from Using a simple named query works--
+------------- ---------------- ---------------
+
+Testcase: Using a simple named query works took 0.167 sec

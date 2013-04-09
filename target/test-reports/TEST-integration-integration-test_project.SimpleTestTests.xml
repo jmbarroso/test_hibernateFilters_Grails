@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="NickBland-PC" name="test_project.SimpleTestTests" tests="1" time="0.17" timestamp="2013-04-09T11:17:05">
+  <properties />
+  <testcase classname="test_project.SimpleTestTests" name="Using a simple named query works" time="0.167" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[--Output from Using a simple named query works--
+]]></system-err>
+</testsuite>
